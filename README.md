@@ -28,5 +28,5 @@ _________________
 - 🙏欢迎关注我的FlowGPT主页👏：https://flowgpt.com/@tyler-coman
 
 ## 致谢
-- 感谢[LangGPT](https://github.com/yzfly/LangGPT)结构化提示词项目对我创作的启发；
+- 感谢[LangGPT](https://github.com/yzfly/LangGPT)结构化提示词项目对我创作的启发！
 - 感谢[FlowGPT](https://flowgpt.com/)站点，上面有很多优秀的Prompt！

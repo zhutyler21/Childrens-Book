@@ -7,5 +7,16 @@
 
 建议使用GPT-4，输入Prompt，即可开始体验。
 
-##示例：
-<img src="./previews/image0.png" alt="输入页面" width="500">
+## 示例：
+
+<img src="./preview/image0.png" width="500">
+
+<img src="./preview/image1.png" width="500">
+
+<img src="./preview/2.png" width="500">
+
+<img src="./preview/4.png" width="500">
+
+<img src="./preview/5.png" width="500">
+
+<img src="./preview/7-2.png" width="500">

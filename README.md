@@ -5,7 +5,7 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCt0wyEJC7XbJCretDO-jacA)
 
 - 🌈这个Prompt，可以按你的要求输出【儿童绘本文案】的文案，及对应的Stable Diffusion的提示词。 
-- 建议使用GPT-4，输入Prompt，即可开始体验。
+- 建议使用GPT-4，输入Prompt，即可开始体验。[点击链接](https://chat.openai.com/share/48fbbec1-a067-47db-9ca2-34eda7669ad6)
 _________________
 
 ## 效果概览：
